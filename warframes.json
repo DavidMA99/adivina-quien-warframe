@@ -1,0 +1,331 @@
+{
+    "ash": {
+        "rol": "sigilo",
+        "genero": "masculino",
+        "elemento": "aire",
+        "tema": "ninja",
+        "dificultad": "media"
+    },
+    "ember": {
+        "rol": "daño",
+        "genero": "femenino",
+        "elemento": "fuego",
+        "tema": "magico",
+        "dificultad": "baja"
+    },
+    "frost": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "hielo",
+        "tema": "magico",
+        "dificultad": "baja"
+    },
+    "nekros": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "necromante",
+        "dificultad": "alta"
+    },
+    "wisp": {
+        "rol": "soporte",
+        "genero": "femenino",
+        "elemento": "electricidad",
+        "tema": "magico",
+        "dificultad": "baja"
+    },
+    "rhino": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "tierra",
+        "tema": "militar",
+        "dificultad": "baja"
+    },
+    "mag": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "magnietico",
+        "tema": "magico",
+        "dificultad": "media"
+    },
+    "volt": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "electricidad",
+        "tema": "cibernetico",
+        "dificultad": "baja"
+    },
+    "nidus": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "toxina",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "titania": {
+        "rol": "soporte",
+        "genero": "femenino",
+        "elemento": "aire",
+        "tema": "mitologico",
+        "dificultad": "media"
+    },
+    "excalibur": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "ninja",
+        "dificultad": "baja"
+    },
+    "equinox": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "magia",
+        "tema": "mitologico",
+        "dificultad": "alta"
+    },
+    "gara": {
+        "rol": "supervivencia",
+        "genero": "femenino",
+        "elemento": "tierra",
+        "tema": "magico",
+        "dificultad": "media"
+    },
+    "garuda": {
+        "rol": "daño",
+        "genero": "femenino",
+        "elemento": "fuego",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "gauss": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "electricidad",
+        "tema": "cibernetico",
+        "dificultad": "media"
+    },
+    "grendel": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "toxina",
+        "tema": "animal",
+        "dificultad": "media"
+    },
+    "harrow": {
+        "rol": "soporte",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "necromante",
+        "dificultad": "alta"
+    },
+    "hildryn": {
+        "rol": "supervivencia",
+        "genero": "femenino",
+        "elemento": "electricidad",
+        "tema": "militar",
+        "dificultad": "media"
+    },
+    "hydroid": {
+        "rol": "control de masas",
+        "genero": "masculino",
+        "elemento": "agua",
+        "tema": "pirata",
+        "dificultad": "media"
+    },
+    "inaros": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "tierra",
+        "tema": "mitologico",
+        "dificultad": "baja"
+    },
+    "ivara": {
+        "rol": "sigilo",
+        "genero": "femenino",
+        "elemento": "magia",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "khora": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "metal",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "kullervo": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "fuego",
+        "tema": "mitologico",
+        "dificultad": "alta"
+    },
+    "lavos": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "toxina",
+        "tema": "alquimista",
+        "dificultad": "alta"
+    },
+    "limbo": {
+        "rol": "control de masas",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "mago",
+        "dificultad": "alta"
+    },
+    "loki": {
+        "rol": "sigilo",
+        "genero": "masculino",
+        "elemento": "aire",
+        "tema": "ninja",
+        "dificultad": "alta"
+    },
+    "mesa": {
+        "rol": "daño",
+        "genero": "femenino",
+        "elemento": "fuego",
+        "tema": "militar",
+        "dificultad": "media"
+    },
+    "mirage": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "luz",
+        "tema": "magico",
+        "dificultad": "media"
+    },
+    "nezha": {
+        "rol": "soporte",
+        "genero": "masculino",
+        "elemento": "fuego",
+        "tema": "mitologico",
+        "dificultad": "media"
+    },
+    "nova": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "magnietico",
+        "tema": "cibernetico",
+        "dificultad": "alta"
+    },
+    "nyx": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "magia",
+        "tema": "psiquico",
+        "dificultad": "media"
+    },
+    "oberon": {
+        "rol": "soporte",
+        "genero": "masculino",
+        "elemento": "tierra",
+        "tema": "mitologico",
+        "dificultad": "baja"
+    },
+    "octavia": {
+        "rol": "soporte",
+        "genero": "femenino",
+        "elemento": "sonido",
+        "tema": "magico",
+        "dificultad": "media"
+    },
+    "protea": {
+        "rol": "soporte",
+        "genero": "femenino",
+        "elemento": "tecnologico",
+        "tema": "cibernetico",
+        "dificultad": "media"
+    },
+    "qorvex": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "tierra",
+        "tema": "militar",
+        "dificultad": "media"
+    },
+    "revenant": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "necromante",
+        "dificultad": "alta"
+    },
+    "saryn": {
+        "rol": "daño",
+        "genero": "femenino",
+        "elemento": "toxina",
+        "tema": "animal",
+        "dificultad": "media"
+    },
+    "sevagoth": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "necromante",
+        "dificultad": "alta"
+    },
+    "styanax": {
+        "rol": "daño",
+        "genero": "masculino",
+        "elemento": "aire",
+        "tema": "militar",
+        "dificultad": "media"
+    },
+    "trinity": {
+        "rol": "soporte",
+        "genero": "femenino",
+        "elemento": "magia",
+        "tema": "sacerdotal",
+        "dificultad": "media"
+    },
+    "valkyr": {
+        "rol": "daño",
+        "genero": "femenino",
+        "elemento": "fuego",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "vauban": {
+        "rol": "control de masas",
+        "genero": "masculino",
+        "elemento": "electricidad",
+        "tema": "militar",
+        "dificultad": "media"
+    },
+    "voruna": {
+        "rol": "supervivencia",
+        "genero": "femenino",
+        "elemento": "toxina",
+        "tema": "animal",
+        "dificultad": "alta"
+    },
+    "wukong": {
+        "rol": "supervivencia",
+        "genero": "masculino",
+        "elemento": "aire",
+        "tema": "mitologico",
+        "dificultad": "baja"
+    },
+    "xaku": {
+        "rol": "control de masas",
+        "genero": "masculino",
+        "elemento": "magia",
+        "tema": "necromante",
+        "dificultad": "alta"
+    },
+    "yareli": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "agua",
+        "tema": "ninja",
+        "dificultad": "baja"
+    },
+    "zephyr": {
+        "rol": "control de masas",
+        "genero": "femenino",
+        "elemento": "aire",
+        "tema": "animal",
+        "dificultad": "media"
+    }
+}
